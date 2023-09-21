@@ -1,0 +1,15 @@
+/Users/kaneki44/Projects/8programs/8programs/bin/Debug/net7.0/8programs
+/Users/kaneki44/Projects/8programs/8programs/bin/Debug/net7.0/8programs.deps.json
+/Users/kaneki44/Projects/8programs/8programs/bin/Debug/net7.0/8programs.runtimeconfig.json
+/Users/kaneki44/Projects/8programs/8programs/bin/Debug/net7.0/8programs.dll
+/Users/kaneki44/Projects/8programs/8programs/bin/Debug/net7.0/8programs.pdb
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.csproj.AssemblyReference.cache
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.AssemblyInfoInputs.cache
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.AssemblyInfo.cs
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.csproj.CoreCompileInputs.cache
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.dll
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/refint/8programs.dll
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.pdb
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/8programs.genruntimeconfig.cache
+/Users/kaneki44/Projects/8programs/8programs/obj/Debug/net7.0/ref/8programs.dll
