@@ -1,0 +1,15 @@
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.csproj.AssemblyReference.cache
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.AssemblyInfoInputs.cache
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.AssemblyInfo.cs
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.csproj.CoreCompileInputs.cache
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/bin/Debug/net7.0/NV_DZ_2
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/bin/Debug/net7.0/NV_DZ_2.deps.json
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/bin/Debug/net7.0/NV_DZ_2.runtimeconfig.json
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/bin/Debug/net7.0/NV_DZ_2.dll
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/bin/Debug/net7.0/NV_DZ_2.pdb
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.dll
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/refint/NV_DZ_2.dll
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.pdb
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/NV_DZ_2.genruntimeconfig.cache
+/Users/kaneki44/Projects/NV_DZ_2/NV_DZ_2/obj/Debug/net7.0/ref/NV_DZ_2.dll
